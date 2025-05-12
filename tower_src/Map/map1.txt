@@ -1,0 +1,5 @@
+PATH
+START 1 4
+INFPO 7 4
+END 7 8
+TOWERPOS 4 3 ; 3 5 ; 7 3 ; 6 6 ; 8 5 ; 8 7

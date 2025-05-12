@@ -1,0 +1,13 @@
+PATH
+START 1 6 
+INFPO 5 6 ; 5 2
+END    1 2
+PATH
+START 12 4
+INFPO 5 4 ; 5 2
+END    1 2
+PATH
+START 8 1
+INFPO
+END    8 8
+TOWERPOS 5 1 ; 3 3 ; 6 3 ; 7 3 ; 9 3 ; 4 5 ; 6 5 ; 7 5 ; 9 6 ; 3 8
